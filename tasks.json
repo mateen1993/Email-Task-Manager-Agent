@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Ensure all team tasks are updated.",
+        "email_subject": "Team Meeting and Tasks",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "Don\u2019t forget the submission deadline for the project is next Wednesday.",
+        "email_subject": "Deadline Reminder",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "You have been assigned new tasks.",
+        "email_subject": "New Assignments",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "Please review the onboarding documents and schedule training sessions.",
+        "email_subject": "New Assignments",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "We need an update on the website redesign.",
+        "email_subject": "Urgent: Task Update Required",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "Provide a timeline for the next steps by tomorrow.",
+        "email_subject": "Urgent: Task Update Required",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    },
+    {
+        "task": "Summarize the weekly progress and prepare a report for the upcoming review meeting.",
+        "email_subject": "Weekly Summary",
+        "timestamp": "2025-01-19T22:01:29.418317"
+    }
+]
